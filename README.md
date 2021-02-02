@@ -7,5 +7,5 @@
    1. Client Id: newClient
    2. Client secret: newClientSecret
    3. Redirect Uri: http://localhost:8089/
-2. `oauth-ui-authorization-code-angular` - A simple Angular App
-3. `oauth-resource-server` is a Spring Boot based RESTFul API, acting as a backend Application
+2. `authorization-code-angular` - A simple Angular App
+3. `resource-server` is a Spring Boot based RESTFul API, acting as a backend Application
